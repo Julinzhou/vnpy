@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 
-from os import path, sep, remove
+from os import sep, remove
 
 try:
 	from os import symlink
